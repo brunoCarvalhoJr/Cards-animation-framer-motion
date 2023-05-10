@@ -1,9 +1,9 @@
-# Carrossel de imagens
+# Cards Animations with framer-motion
 
-<h1 align="center">ReactJs and Styled-Components</h1>
+<h1 align="center">ReactJs and Framer-motion</h1>
 
 <div align="center">
   
-[React](https://reactjs.org/) Exemplo de um carrossel de imagens com reactJs
+[React](https://reactjs.org/) Exemplo de animação de cards com React e framer-motions
   
 </div>
